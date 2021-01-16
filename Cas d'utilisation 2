@@ -1,0 +1,21 @@
+  Identifications des acteurs 
+Etant défini comme une entité extérieurs au système modélisé et qui interagit directement avec lui, il peut être une personne ou un système qui interagit avec le système étudié. Ainsi, les acteurs qui interagissent avec la GVIII_Avicole sont : 
+-	Manœuvre : personnel qui est chargé de remplir les mangeoires et les abreuvoirs, ramasser les œufs et nettoyer le sol. 
+-	Vétérinaire : personne qui administre les vaccins aux volailles.  
+-	Gérant : Toute qui établit la commande, encaisse la recette et couvre les dépenses. 
+
+ Les différents cas d’utilisation 
+Le but de cette étude est de déterminer ce que chaque utilisateur attend du système. Les cas d’utilisation sont : 
+-	Nettoyer le sol 
+-	Remplir les mangeoires 
+-	S’occuper des entretiens des matériels 
+-	Ramasser les œufs  
+-	Administre les traitements adéquats  
+-	Proposition des méthodes de prévention 
+-	Déterminer la nature des maladies 
+-	Commande  
+-	Créer la facture  
+-	Encaisser la recette  
+-	Couvrir les dépenses   
+
+
